@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402258810 source:c:\users\rodrigo\git\stringpp\string ++\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+
