@@ -1,19 +1,3 @@
-/************************************************************************
-*** ***
-*** Rodrigo Mansueli Nunes No. Matrícula 1166174
-*** Exercício-Programa Aula 8 - Código de César
-*** Curso: Técnicas de Programação Turma: C21 Professor Msc.: Alexandre Rossi Paschoal
-*** Computador: Lenono 3000 N200
-*** Compilador: Dev-C++ 4.9.9.2
-*** Objetivo: Criar um progama que encodifica pelo código de césar,
-*** com alterações no código original de césar, que não substitui espaços.
-*** Data de Entrega: 3 out 2010.
-*** Notas adicionais:
-***   O alfabéto utilizado é o nórdico, ou seja ha as letras æøå após o z
-***   Letras acentudadas não seram modificadas, uma vez que o código nada diz a respeito dessas.
-*** ***
-************************************************************************/
-
 #include <stdio.h> //entradas e saídas
 #include <string.h> //funções para brincar com string
 #include <conio.h> //getch() AVISO: não é padrão ANSI pode dar problemas em alguns S.O.
